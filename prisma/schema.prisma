@@ -1,0 +1,26 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model MatchRecord {
+  id          String   @id @default(cuid())
+  createdAt   DateTime @default(now())
+  resumeText  String
+  resumeJson  String?
+  preferences String?
+  results     String   // JSON of match results
+}
+
+model RewriteRecord {
+  id          String   @id @default(cuid())
+  matchId     String
+  jobJson     String   // JSON of the job
+  resumeText  String
+  suggestions String   // JSON of rewrite suggestions
+  createdAt   DateTime @default(now())
+}

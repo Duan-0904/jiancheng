@@ -1,0 +1,302 @@
+[
+  {
+    "id": "job-001",
+    "title": "AI产品经理",
+    "company": "字节跳动",
+    "city": "北京",
+    "salary": "25k-45k",
+    "jdFull": "负责AI产品的规划与设计，包括但不限于大模型应用、智能助手等方向。需要深入理解大模型能力边界，能够将用户需求转化为可落地的产品方案。要求：3年以上产品经理经验，有AI/ML相关项目经验优先，熟悉LLM应用场景，具备数据分析能力，优秀的跨部门协作能力。",
+    "jdHighlights": ["大模型应用经验", "用户需求转化产品方案", "跨部门协作能力", "数据分析能力"],
+    "sourceUrl": "https://www.zhipin.com/job/example-001"
+  },
+  {
+    "id": "job-002",
+    "title": "数据分析师",
+    "company": "阿里巴巴",
+    "city": "杭州",
+    "salary": "20k-35k",
+    "jdFull": "负责业务数据分析，通过数据驱动业务决策。使用SQL、Python等工具进行数据提取、清洗和分析，搭建数据看板和报表体系。要求：统计学或相关专业，熟练掌握SQL和Python，有Tableau/PowerBI使用经验，能够独立完成分析报告，有电商数据分析经验优先。",
+    "jdHighlights": ["SQL和Python", "数据看板搭建", "独立分析报告", "电商领域经验"],
+    "sourceUrl": "https://www.zhipin.com/job/example-002"
+  },
+  {
+    "id": "job-003",
+    "title": "前端开发工程师",
+    "company": "腾讯",
+    "city": "深圳",
+    "salary": "22k-40k",
+    "jdFull": "负责Web前端开发，使用React/Next.js构建高性能用户界面。参与组件库建设，优化前端性能与用户体验。要求：3年以上前端开发经验，精通React和TypeScript，熟悉Next.js服务端渲染原理，有组件库开发经验优先，了解Node.js后端开发。",
+    "jdHighlights": ["React/Next.js精通", "TypeScript", "组件库开发", "Node.js基础"],
+    "sourceUrl": "https://www.zhipin.com/job/example-003"
+  },
+  {
+    "id": "job-004",
+    "title": "游戏产品经理",
+    "company": "网易游戏",
+    "city": "广州",
+    "salary": "20k-38k",
+    "jdFull": "负责游戏产品的功能设计与版本迭代，深入理解玩家需求，设计游戏系统和玩法。要求：热爱游戏，有2年以上游戏行业经验，熟悉游戏数值设计，具备数据分析能力，能够通过数据驱动玩法优化，有完整上线项目经验优先。",
+    "jdHighlights": ["游戏行业经验", "数值设计能力", "数据分析驱动优化", "完整项目经验"],
+    "sourceUrl": "https://www.zhipin.com/job/example-004"
+  },
+  {
+    "id": "job-005",
+    "title": "后端开发工程师",
+    "company": "美团",
+    "city": "北京",
+    "salary": "25k-42k",
+    "jdFull": "负责核心业务系统的后端开发，设计高并发、高可用的分布式系统。使用Java/Go进行服务端开发，参与系统架构设计。要求：3年以上Java开发经验，熟悉Spring Boot/Spring Cloud，有分布式系统设计经验，熟悉MySQL、Redis，有微服务架构经验优先。",
+    "jdHighlights": ["Java/Spring Boot", "分布式系统", "MySQL和Redis", "微服务架构"],
+    "sourceUrl": "https://www.zhipin.com/job/example-005"
+  },
+  {
+    "id": "job-006",
+    "title": "AI算法工程师",
+    "company": "商汤科技",
+    "city": "上海",
+    "salary": "30k-55k",
+    "jdFull": "负责计算机视觉/自然语言处理算法的研发与落地。参与模型训练、优化和部署全过程。要求：硕士及以上学历，扎实的机器学习基础，熟练掌握Python和PyTorch/TensorFlow，在CV/NLP方向有实际项目经验，有顶会论文发表优先。",
+    "jdHighlights": ["深度学习框架PyTorch", "NLP/CV实际项目", "模型部署经验", "研究能力"],
+    "sourceUrl": "https://www.zhipin.com/job/example-006"
+  },
+  {
+    "id": "job-007",
+    "title": "产品运营",
+    "company": "小红书",
+    "city": "上海",
+    "salary": "18k-30k",
+    "jdFull": "负责社区产品的用户增长与内容运营。通过数据分析理解用户行为，制定运营策略，提升用户活跃度和留存率。要求：2年以上互联网运营经验，具备SQL数据分析能力，熟悉内容社区运营逻辑，有用户增长项目经验优先。",
+    "jdHighlights": ["SQL数据分析", "用户增长经验", "内容社区理解", "活跃度留存优化"],
+    "sourceUrl": "https://www.zhipin.com/job/example-007"
+  },
+  {
+    "id": "job-008",
+    "title": "DevOps工程师",
+    "company": "滴滴出行",
+    "city": "北京",
+    "salary": "28k-48k",
+    "jdFull": "负责公司DevOps平台的建设与维护，推动CI/CD流程优化。管理Kubernetes集群，保障服务高可用。要求：3年以上运维/DevOps经验，精通Linux系统，熟悉Docker和Kubernetes，有CI/CD流水线搭建经验，掌握至少一种脚本语言。",
+    "jdHighlights": ["Kubernetes运维", "CI/CD流水线", "Docker容器化", "Linux系统管理"],
+    "sourceUrl": "https://www.zhipin.com/job/example-008"
+  },
+  {
+    "id": "job-009",
+    "title": "UX设计师",
+    "company": "百度",
+    "city": "北京",
+    "salary": "22k-38k",
+    "jdFull": "负责AI产品的用户体验设计，从交互到视觉的完整设计方案。进行用户研究，产出设计规范。要求：3年以上UX设计经验，有ToB/ToC产品设计经验，熟练使用Figma，有用户研究访谈经验，有AI产品设计经验优先。",
+    "jdHighlights": ["Figma熟练", "用户研究经验", "AI产品设计", "完整设计规范"],
+    "sourceUrl": "https://www.zhipin.com/job/example-009"
+  },
+  {
+    "id": "job-010",
+    "title": "技术项目经理",
+    "company": "华为",
+    "city": "深圳",
+    "salary": "25k-45k",
+    "jdFull": "负责云服务产品的项目管理，协调跨团队资源推动项目按时交付。制定项目计划，管理风险和依赖。要求：5年以上工作经验，有PMP认证优先，熟悉软件开发流程，有云计算/大数据相关项目经验，优秀的跨部门协调能力。",
+    "jdHighlights": ["PMP或敏捷认证", "云计算经验", "跨部门协调", "软件开发流程理解"],
+    "sourceUrl": "https://www.zhipin.com/job/example-010"
+  },
+  {
+    "id": "job-011",
+    "title": "数据工程师",
+    "company": "快手",
+    "city": "北京",
+    "salary": "28k-45k",
+    "jdFull": "负责数据平台建设，搭建和维护数据仓库ETL流程。使用Spark/Flink进行大数据处理。要求：3年以上数据工程经验，精通SQL和Python，熟悉Hadoop/Spark生态，有数据仓库建模经验，了解实时数据处理框架。",
+    "jdHighlights": ["Spark/Flink大数据处理", "数据仓库建模", "ETL流程设计", "实时数据处理"],
+    "sourceUrl": "https://www.zhipin.com/job/example-011"
+  },
+  {
+    "id": "job-012",
+    "title": "移动端开发工程师",
+    "company": "小红书",
+    "city": "上海",
+    "salary": "22k-38k",
+    "jdFull": "负责iOS/Android客户端的功能开发和性能优化。参与移动端架构设计，提升用户体验。要求：3年以上移动端开发经验，精通Swift或Kotlin，了解跨平台方案（Flutter/React Native），有性能优化经验，有上架App Store应用优先。",
+    "jdHighlights": ["Swift/Kotlin精通", "性能优化经验", "跨平台方案了解", "App Store上架经验"],
+    "sourceUrl": "https://www.zhipin.com/job/example-012"
+  },
+  {
+    "id": "job-013",
+    "title": "商业化产品经理",
+    "company": "字节跳动",
+    "city": "上海",
+    "salary": "28k-50k",
+    "jdFull": "负责广告/电商商业化产品的规划与迭代。设计变现策略，通过A/B实验验证产品假设。要求：3年以上商业化产品经验，熟悉广告系统或电商变现逻辑，具备优秀的AB实验设计和数据分析能力，强逻辑思维和数据敏感度。",
+    "jdHighlights": ["商业化/广告经验", "A/B实验设计", "数据分析敏感度", "变现策略设计"],
+    "sourceUrl": "https://www.zhipin.com/job/example-013"
+  },
+  {
+    "id": "job-014",
+    "title": "测试开发工程师",
+    "company": "拼多多",
+    "city": "上海",
+    "salary": "20k-35k",
+    "jdFull": "负责自动化测试框架搭建和质量保障体系建设。编写接口自动化和UI自动化测试用例。要求：2年以上测试开发经验，精通Python/Java至少一种，熟悉Selenium/Appium等自动化工具，有性能测试经验，了解CI/CD集成测试流程。",
+    "jdHighlights": ["自动化测试框架", "Python/Java编程", "CI/CD集成测试", "性能测试"],
+    "sourceUrl": "https://www.zhipin.com/job/example-014"
+  },
+  {
+    "id": "job-015",
+    "title": "安全工程师",
+    "company": "奇安信",
+    "city": "北京",
+    "salary": "25k-45k",
+    "jdFull": "负责Web安全和移动安全攻防研究。进行渗透测试，发现并修复安全漏洞。要求：3年以上安全领域经验，熟悉OWASP Top 10，有渗透测试经验，了解代码审计，有CTF比赛经历优先，有CISP/CISSP认证优先。",
+    "jdHighlights": ["渗透测试经验", "OWASP Top 10", "代码审计能力", "安全认证"],
+    "sourceUrl": "https://www.zhipin.com/job/example-015"
+  },
+  {
+    "id": "job-016",
+    "title": "AI产品经理",
+    "company": "科大讯飞",
+    "city": "合肥",
+    "salary": "18k-32k",
+    "jdFull": "负责语音AI产品的规划和设计，深入了解语音识别/合成技术在行业中的应用。要求：2年以上AI产品经理经验，了解语音/对话式AI技术原理，有ToB项目落地经验，能够独立完成需求分析和产品方案撰写。",
+    "jdHighlights": ["语音AI技术理解", "ToB落地经验", "需求分析能力", "行业应用洞察"],
+    "sourceUrl": "https://www.zhipin.com/job/example-016"
+  },
+  {
+    "id": "job-017",
+    "title": "数据分析师",
+    "company": "京东",
+    "city": "北京",
+    "salary": "18k-30k",
+    "jdFull": "负责电商业务的数据分析，支持运营和市场决策。通过数据挖掘发现业务增长机会，输出分析报告。要求：熟练使用SQL和Excel，掌握Python或R进行数据分析，有数据可视化能力，对电商业务逻辑有深入理解，有AB实验分析经验优先。",
+    "jdHighlights": ["SQL精通", "Python/R数据分析", "电商业务理解", "AB实验分析"],
+    "sourceUrl": "https://www.zhipin.com/job/example-017"
+  },
+  {
+    "id": "job-018",
+    "title": "前端开发工程师",
+    "company": "蚂蚁集团",
+    "city": "杭州",
+    "salary": "25k-45k",
+    "jdFull": "负责金融科技产品的前端开发，构建高性能、高可用的Web应用。要求：3年以上前端经验，精通React/Vue，了解TypeScript，有金融/支付类产品开发经验优先，了解前端安全最佳实践，熟悉前端性能监控和优化。",
+    "jdHighlights": ["React/Vue框架", "TypeScript", "前端安全实践", "金融产品经验"],
+    "sourceUrl": "https://www.zhipin.com/job/example-018"
+  },
+  {
+    "id": "job-019",
+    "title": "后端开发工程师",
+    "company": "B站",
+    "city": "上海",
+    "salary": "22k-38k",
+    "jdFull": "负责视频内容分发系统的后端开发，设计高并发的推荐和搜索服务。要求：精通Go/Java，有高并发系统设计经验，熟悉ElasticSearch，了解推荐系统原理，有视频/内容行业经验优先。",
+    "jdHighlights": ["Go/Java高并发", "ElasticSearch", "推荐系统理解", "内容行业经验"],
+    "sourceUrl": "https://www.zhipin.com/job/example-019"
+  },
+  {
+    "id": "job-020",
+    "title": "增长产品经理",
+    "company": "得物",
+    "city": "上海",
+    "salary": "20k-35k",
+    "jdFull": "负责用户增长策略的制定和落地。通过数据分析找到增长杠杆，设计增长实验。要求：3年以上增长/策略产品经验，精通数据分析，有完整的增长项目经验，熟悉用户获取和激活链路，懂AB实验方法论。",
+    "jdHighlights": ["增长策略经验", "AB实验方法论", "用户获取链路", "数据分析能力"],
+    "sourceUrl": "https://www.zhipin.com/job/example-020"
+  },
+  {
+    "id": "job-021",
+    "title": "大模型应用开发工程师",
+    "company": "智谱AI",
+    "city": "北京",
+    "salary": "30k-55k",
+    "jdFull": "基于大语言模型（GLM等）开发AI应用。负责Prompt工程、RAG系统搭建、Agent框架开发。要求：精通Python，熟悉LangChain/LlamaIndex等框架，有大模型API调用和应用开发经验，了解向量数据库，良好的工程化思维。",
+    "jdHighlights": ["LangChain/LlamaIndex", "Prompt工程经验", "RAG系统搭建", "向量数据库"],
+    "sourceUrl": "https://www.zhipin.com/job/example-021"
+  },
+  {
+    "id": "job-022",
+    "title": "产品经理",
+    "company": "米哈游",
+    "city": "上海",
+    "salary": "22k-40k",
+    "jdFull": "负责游戏社区/平台产品的设计与迭代。深入理解二次元用户群体，设计社区功能。要求：2年以上C端产品经验，热爱游戏和二次元文化，有社区/社交产品经验优先，具备用户调研和需求分析能力，能独立写PRD。",
+    "jdHighlights": ["C端产品经验", "社区/社交产品理解", "用户调研能力", "二次元文化理解"],
+    "sourceUrl": "https://www.zhipin.com/job/example-022"
+  },
+  {
+    "id": "job-023",
+    "title": "NLP算法工程师",
+    "company": "百度",
+    "city": "北京",
+    "salary": "30k-55k",
+    "jdFull": "负责自然语言处理算法的研发，包括文本分类、信息抽取、语义理解等方向。要求：硕士及以上学历，扎实NLP基础，熟悉Transformer架构，有大模型微调经验，在信息抽取/文本生成方向有实际项目落地经验。",
+    "jdHighlights": ["Transformer架构理解", "大模型微调经验", "信息抽取项目", "工程落地能力"],
+    "sourceUrl": "https://www.zhipin.com/job/example-023"
+  },
+  {
+    "id": "job-024",
+    "title": "运营经理",
+    "company": "网易云音乐",
+    "city": "杭州",
+    "salary": "18k-30k",
+    "jdFull": "负责音乐社区的内容运营和用户增长。策划线上活动，提升社区活跃度。要求：3年以上运营经验，对音乐行业有热情，有内容策划能力，有项目管理和跨团队协作经验，有数据分析思维。",
+    "jdHighlights": ["内容策划能力", "社区运营经验", "跨团队协作", "音乐行业热情"],
+    "sourceUrl": "https://www.zhipin.com/job/example-024"
+  },
+  {
+    "id": "job-025",
+    "title": "全栈工程师",
+    "company": "Notion中国",
+    "city": "上海",
+    "salary": "28k-48k",
+    "jdFull": "负责生产力工具的全栈开发，从前端交互到后端服务。使用React+Node.js构建流畅的用户体验。要求：3年以上全栈开发经验，精通TypeScript，有React和Node.js生产项目经验，了解数据库设计，有开源项目贡献优先。",
+    "jdHighlights": ["TypeScript全栈", "React+Node.js", "数据库设计", "开源项目贡献"],
+    "sourceUrl": "https://www.zhipin.com/job/example-025"
+  },
+  {
+    "id": "job-026",
+    "title": "AI产品运营",
+    "company": "Minimax",
+    "city": "北京",
+    "salary": "22k-38k",
+    "jdFull": "负责AI产品的用户运营和内容策略。管理Prompt模板库，收集用户反馈优化产品体验。要求：2年以上运营经验，对AI/大模型有兴趣和基本理解，有Prompt engineering经验优先，有社区运营经验，会基础数据分析。",
+    "jdHighlights": ["AI/大模型理解", "Prompt engineering", "社区运营经验", "用户反馈收集"],
+    "sourceUrl": "https://www.zhipin.com/job/example-026"
+  },
+  {
+    "id": "job-027",
+    "title": "技术文档工程师",
+    "company": "PingCAP",
+    "city": "北京",
+    "salary": "18k-30k",
+    "jdFull": "负责数据库产品的技术文档撰写和维护。编写API文档、用户手册和最佳实践指南。要求：2年以上技术写作经验，有计算机相关背景，了解数据库基础概念，优秀的英文写作能力，有开源项目文档维护经验优先。",
+    "jdHighlights": ["技术写作经验", "计算机/数据库背景", "英文写作能力", "开源文档经验"],
+    "sourceUrl": "https://www.zhipin.com/job/example-027"
+  },
+  {
+    "id": "job-028",
+    "title": "客户端架构师",
+    "company": "微信",
+    "city": "广州",
+    "salary": "35k-60k",
+    "jdFull": "负责微信客户端的架构设计与优化。制定技术规范，解决性能瓶颈。要求：5年以上移动端开发经验，精通C++和客户端性能优化，深入了解操作系统原理，有大DAU应用架构经验，有跨平台架构设计经验。",
+    "jdHighlights": ["C++精通", "客户端性能优化", "操作系统原理", "大DAU应用经验"],
+    "sourceUrl": "https://www.zhipin.com/job/example-028"
+  },
+  {
+    "id": "job-029",
+    "title": "商业分析师",
+    "company": "腾讯",
+    "city": "深圳",
+    "salary": "20k-35k",
+    "jdFull": "负责游戏/社交业务的市场分析和商业策略研究。分析行业趋势和竞争格局。要求：2年以上商业分析/战略咨询经验，有互联网/游戏行业研究经验，精通Excel和PPT，有SQL能力，优秀的逻辑分析和报告撰写能力。",
+    "jdHighlights": ["互联网行业研究", "SQL分析", "逻辑分析能力", "报告撰写"],
+    "sourceUrl": "https://www.zhipin.com/job/example-029"
+  },
+  {
+    "id": "job-030",
+    "title": "AI产品经理（大模型方向）",
+    "company": "深度求索",
+    "city": "北京",
+    "salary": "30k-55k",
+    "jdFull": "负责大模型相关产品的规划与设计。需要深入理解大模型技术原理和能力边界，探索模型能力的商业化应用场景。要求：3年以上产品经理经验，有AI/ML产品经验，理解Prompt工程和模型评估方法，有技术背景或CS相关学位优先，有优秀的跨部门协作和推动能力。",
+    "jdHighlights": ["大模型技术理解", "Prompt工程和评估", "商业化应用探索", "技术背景/CS学位", "跨部门推动能力"],
+    "sourceUrl": "https://www.zhipin.com/job/example-030"
+  }
+]
